@@ -1,0 +1,1 @@
+## Different Solidity learning tasks
